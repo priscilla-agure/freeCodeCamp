@@ -7,7 +7,7 @@ You are welcome to create, update and fix bugs in our [curriculum](#curriculum),
 
 We answer the most common questions about contributing [in our contributor FAQ](FAQ.md).
 
-Happy contributing.
+Happy contributing!
 
 ---
 
@@ -29,7 +29,7 @@ Certifications are already live in some major world languages like [Chinese (中
 
 ## Learning Platform
 
-Our learning platform runs on a modern JavaScript stack. It has various components, tools, and libraries. These include Node.js, MongoDB, OAuth 2.0, React, Gatsby, Webpack, and more.
+Our learning platform runs on a modern JavaScript stack. It has various components, tools and libraries. These include; Node.js, MongoDB, OAuth 2.0, React, Gatsby, Webpack, and more.
 
 Broadly, we have a Node.js based API server, a set of React-based client applications, testing scripts to evaluate camper-submitted curriculum projects, and more. If you want to productively contribute to the learning platform, we recommend some familiarity with these tools.
 
